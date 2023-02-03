@@ -13,7 +13,7 @@ https://github.com/mit-physics-data/projrects/
 
 They will be posted in a timely manner before they are due. 
 
-Related Material
+Related Material: 
 MITx course: https://github.com/mitx-8s50/nb_LEARNER
 UIUC Data Analyis and machine learning : https://illinois-mla.github.io/syllabus/
 UCSD Data Science Capstone:  https://dsc-capstone.github.io
