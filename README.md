@@ -15,9 +15,9 @@ They will be posted in a timely manner before they are due.
 
 Related Material: 
 
-MITx course: https://github.com/mitx-8s50/nb_LEARNER
-UIUC Data Analyis and machine learning : https://illinois-mla.github.io/syllabus/
-UCSD Data Science Capstone:  https://dsc-capstone.github.io
+MITx course: https://github.com/mitx-8s50/nb_LEARNER  
+UIUC Data Analyis and machine learning : https://illinois-mla.github.io/syllabus/ 
+UCSD Data Science Capstone:  https://dsc-capstone.github.io.  
 CMS Collaboration, “2020 CMS Data Analysis School": https://lpc.fnal.gov/programs/schools-workshops/cmsdas.shtml
 2020 Hands-on Advanced Tutorial Sessions at the LPC: https://lpc.fnal.gov/programs/schools-workshops/hats.shtml.
 Computational and data science training for high energy physics.: https://codas-hep.org
